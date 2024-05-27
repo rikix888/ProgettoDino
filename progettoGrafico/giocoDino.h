@@ -12,9 +12,9 @@
 #define MAX_OSTACOLI 10
 #define INTERVALLO_OSTACOLI rand()%100+50
 #define SEMIBREVE 800
-#define SEMIMINIMA  400
-#define CROMA  200
-#define SEMICROMA  100
+#define SEMIMINIMA 400
+#define CROMA 200
+#define SEMICROMA 100
 #include "immediate2d.h"
 
 class giocoDino

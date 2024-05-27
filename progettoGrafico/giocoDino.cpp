@@ -318,7 +318,7 @@ void giocoDino::avvio() {
         }
         disegnaTutto();
 
-        Wait(30); // Frame rate
+        Wait(30);
 
     }
 
